@@ -8,7 +8,8 @@
 
 # create a function to remove the characters
 
-# ask user input
+# ask user word input
+inputted_word = input("Please enter a word: ")
 
 #print result
 
