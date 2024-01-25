@@ -16,3 +16,6 @@ def remove_letter(any_word, n):
 inputted_word = input("Please enter a word: ")
 
 #print result
+print("\nRemoving letters from a string:")
+print(remove_letter(inputted_word, 5))
+print(remove_letter(inputted_word, 8))
